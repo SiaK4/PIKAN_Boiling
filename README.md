@@ -22,5 +22,5 @@ We study this problem through the reconstruction of local time-resolved nucleate
 ## ✉️ Contact
 
 If you have any questions or would like to chat about the paper ahead of publication, feel free to reach out:
-* **Name:** [Siavash Khodakarami]
-* **Email:** [siavash_khodakarami@brown.edu]
+* **Name:** Siavash Khodakarami
+* **Email:** siavash_khodakarami@brown.edu
