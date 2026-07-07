@@ -7,7 +7,7 @@ This is the official GitHub repository for the paper:
 
 ## 📢 Code Availability
 
-⚠️ **All codes, models, and datasets will be made available right after official publication.** We are currently putting the finishing touches on the repository to ensure it is clean, well-documented, and easy to reproduce. **Stay tuned!** 🚀
+⚠️ **All codes and models will be made available right after official publication.** We are currently putting the finishing touches on the repository to ensure it is clean, well-documented, and easy to reproduce. **Stay tuned!** 🚀
 
 ---
 
